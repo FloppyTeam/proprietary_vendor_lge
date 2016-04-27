@@ -17,7 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/lge/e610/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/e610/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/lge/e610/proprietary/bin/rild:system/bin/rild \
     vendor/lge/e610/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/e610/proprietary/bin/sensord:system/bin/sensord \
     vendor/lge/e610/proprietary/lib/hw/nfc.msm7x27a.so:system/lib/hw/nfc.msm7x27a.so \
@@ -51,7 +50,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e610/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/lge/e610/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/lge/e610/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
-    vendor/lge/e610/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/e610/proprietary/lib/libwcnftm.so:system/lib/libwcnftm.so \
     vendor/lge/e610/proprietary/lib/libwfcu.so:system/lib/libwfcu.so \
     vendor/lge/e610/proprietary/lib/libwms.so:system/lib/libwms.so \
