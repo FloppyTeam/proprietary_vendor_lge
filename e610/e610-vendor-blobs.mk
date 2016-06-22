@@ -21,7 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e610/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/e610/proprietary/bin/sensord:system/bin/sensord \
     vendor/lge/e610/proprietary/lib/hw/nfc.msm7x27a.so:system/lib/hw/nfc.msm7x27a.so \
-    vendor/lge/e610/proprietary/lib/hw/sensors.m4.so:system/lib/hw/sensors.u0.so \
+    vendor/lge/e610/proprietary/lib/hw/sensors.m4.so:system/lib/hw/sensors.m4.so \
     vendor/lge/e610/proprietary/lib/libauth.so:system/lib/libauth.so \
     vendor/lge/e610/proprietary/lib/libchromatix_hi542_default_video.so:system/lib/libchromatix_hi542_default_video.so \
     vendor/lge/e610/proprietary/lib/libchromatix_hi542_preview.so:system/lib/libchromatix_hi542_preview.so \
